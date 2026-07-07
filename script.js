@@ -1,42 +1,42 @@
 const destinations = [
   {
     name: "Banff, Canada",
-    image: "assets/banff.png",
+    image: "banff.png",
     traits: ["mountain", "hiking", "drive", "local"],
     tags: ["mountains", "lakes", "road trip"],
     note: "Best when you want dramatic hikes, scenic drives, and cozy food after long days outside."
   },
   {
     name: "Kyoto, Japan",
-    image: "assets/kyoto.png",
+    image: "kyoto.png",
     traits: ["city", "sightseeing", "rail", "local", "vegetarian"],
     tags: ["culture", "rail", "food"],
     note: "A strong match for temples, neighborhoods, markets, and a trip that works beautifully without a car."
   },
   {
     name: "Madeira, Portugal",
-    image: "assets/madeira.png",
+    image: "madeira.png",
     traits: ["mountain", "beach", "hiking", "drive", "casual"],
     tags: ["island", "hiking", "coast"],
     note: "Great for travelers who want cliff walks, ocean views, relaxed meals, and a compact driving adventure."
   },
   {
     name: "Barcelona, Spain",
-    image: "assets/barcelona.png",
+    image: "barcelona.png",
     traits: ["city", "beach", "sightseeing", "fly", "fine"],
     tags: ["city", "beach", "architecture"],
     note: "An easy pick for food-forward sightseeing with beaches close enough for slower afternoons."
   },
   {
     name: "Sedona, Arizona",
-    image: "assets/sedona.png",
+    image: "sedona.png",
     traits: ["mountain", "forest", "hiking", "drive", "casual"],
     tags: ["desert hikes", "wellness", "drive"],
     note: "A compact, high-impact match for hiking, red rock views, and flexible road-trip pacing."
   },
   {
     name: "Costa Rica",
-    image: "assets/costa-rica.png",
+    image: "costa-rica.png",
     traits: ["forest", "beach", "hiking", "fly", "local"],
     tags: ["rainforest", "beach", "wildlife"],
     note: "A strong all-rounder for nature, beaches, guided adventures, and fresh local food."
